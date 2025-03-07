@@ -1,0 +1,16 @@
+{
+	"main": "./app.js",
+	"modules": [
+		"registry",
+		"scriptsManager",
+		"console",
+		"timer"
+	],
+	"command": {
+		"command": "blocks",
+		"description": "blocks is a command to create a blocks",
+		"usage": "Use /<main command> blocks",
+		"permission": "JsPig.JsExtend.blocks",
+		"permissionMessage": "You do not have permission to use this command."
+	}
+}
