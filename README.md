@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <b>English</b> | <a href="https://github.com/I-Mortals/JsPig/blob/main/EVENTS.zh-CN.md">简体中文</a>
+    <b>English</b> | <a href="https://github.com/I-Mortals/jspig-example/blob/main/README.zh-CN.md">简体中文</a>
 </p>
 
 <p align="center">
